@@ -11,5 +11,5 @@
 |사용할 소프트웨어 패키지의 명칭과 핵심기능/용도|**[STT, TTS]** Google Cloud API<BR> **[NLP]** Open AI GPT API<BR> **[LBS]** Naver Maps API<BR> **[백엔드]** Flask<BR> **[앱 개발]** React Native<BR> **[DB]** Firebase Realtime|
 |사용할 소프트웨어 패키지의 명칭과 URL|Google Cloud Speech-to-Text API: [https://speech.googleapis.com](https://speech.googleapis.com/)<BR>Google Cloud Text-to-Speech API: [https://texttospeech.googleapis.com](https://texttospeech.googleapis.com/)<BR>Open AI GPT API: https://chatgpt.com/<BR>Naver Maps API: https://navermaps.github.io/maps.js.ncp/<BR>Flask: [https://flask.palletsprojects.com](https://flask.palletsprojects.com/)<BR>React Native: https://ko.legacy.reactjs.org/<BR>Firebase Realtime DB: https://firebase.google.com/products/realtime-database|
 |팀그라운드룰|https://github.com/25-2-team35/Capstone/blob/main/GroundRule.md|
-|최종수정일|2025.09.11|
+|최종수정일|2025.09.16|
   
