@@ -11,5 +11,5 @@
 |사용할 소프트웨어 패키지의 명칭과 핵심기능/용도|**[React.js]** 사용자 인터페이스(UI) 개발, 대화 화면, 자료 업로드/조회 기능 구현<BR> **[FastAPI]** API 서버, AI 모델 연동, 데이터 처리 및 LLM 호출 관리<BR> **[PostgreSQL]** 사용자 계정, 대화 로그, 업로드 자료 메타데이터 관리<BR> **[pgvector]** 임베딩 벡터 저장 및 유사도 검색, AI 질문 추천 및 검색 최적화<BR> **[OpenAI Whisper]** 강의 음성 파일을 텍스트로 변환 (STT)<BR> **[EasyOCR]** 강의록 위 손필기를 텍스트로 인식 (OCR)<BR> **[PyMuPDF]** PDF 강의 파일에서 텍스트 및 메타데이터 추출<BR> **[LangChain]** 여러 데이터 소스 연동, LLM 체인 구성, 질문 생성 파이프라인 관리<BR> **[OpenAI]** 소크라테스식 질문 생성, 학생 답변 분석, 맞춤형 피드백 생성|
 |사용할 소프트웨어 패키지의 명칭과 URL|React.js:  https://react.dev<BR>FastAPI:  https://fastapi.tiangolo.com<BR>PostgreSQL:https://www.postgresql.org<BR>pgvector: https://github.com/pgvector/pgvector<BR>OpenAI Whisper: https://github.com/openai/whisper<BR>EasyOCR:  https://github.com/JaidedAI/EasyOCR<BR>PyMuPDF:  https://pypi.org/project/PyMuPDF<BR>LangChain:  https://www.langchain.com<Br>OpenAI:https://platform.openai.com
 |팀그라운드룰|https://github.com/25-2-team35/Capstone/blob/main/GroundRule.md|
-|최종수정일|2025.09.22|
+|최종수정일|2025.11.13|
   
